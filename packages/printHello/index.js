@@ -1,5 +1,5 @@
 const printHello = () => {
-    console.log('helloa')
+    console.log('helloa33')
 }
 
 export default printHello
