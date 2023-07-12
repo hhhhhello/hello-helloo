@@ -1,5 +1,5 @@
 const printHello = () => {
-    console.log('helloo')
+    console.log('hello')
 }
 
 export default printHello
